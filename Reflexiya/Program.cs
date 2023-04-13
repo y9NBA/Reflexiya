@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Reflection;
 
+//Net 5.0
+
 namespace Reflexiya
 {
     public class Program
